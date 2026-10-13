@@ -1,2 +1,2 @@
-# indispensable_ladysoria
+# prueba_ladysoria
 Repositorio de prueba 2ASIR
