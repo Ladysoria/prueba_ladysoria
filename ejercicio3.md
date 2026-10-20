@@ -63,6 +63,10 @@ git push
 git push origin segunda
 ```
 
+Fichero ya solucionado (sin las marcas del conflicto) y commit de la solución:
+
+![Conflicto solucionado y historial de commits](images/ej3_solucion.png)
+
 Rama segunda creada en el repositorio de GitHub:
 
 ![Ramas en GitHub](images/ramas.png)
