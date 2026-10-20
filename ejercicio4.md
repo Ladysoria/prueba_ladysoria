@@ -56,9 +56,24 @@ Desde la página de mi fork en GitHub, pulso **Compare & pull request**, comprue
 
 ## 7. Sincronizar mi fork con el repositorio original
 
-Cuando el profesor acepta el Pull Request, pulso **Sync fork** en mi fork de GitHub y actualizo mi repositorio local:
+El profesor ha aceptado el Pull Request #5 (*Merge pull request #5 from Ladysoria/lsf*). Mi fork queda por detrás del repositorio original:
+
+![Pull Request aceptado y fork desactualizado](images/ej4_merged.png)
+
+En mi fork de GitHub pulso **Sync fork** y después **Update branch**:
+
+![Sync fork y Update branch](images/ej4_sync.png)
+
+El fork queda actualizado con el repositorio original:
+
+![Fork actualizado](images/ej4_sync_ok.png)
+
+Por último, actualizo mi repositorio local para tener los ficheros de todos mis compañeros:
 
 ```
 git checkout main
 git pull
+ls files
 ```
+
+![git pull con los ficheros de todos los compañeros](images/ej4_pull.png)
