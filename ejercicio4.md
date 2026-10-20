@@ -4,6 +4,8 @@
 
 Desde la página de GitHub del repositorio `lgarciavelazquez/prueba-pr-iaw_202627`, pulso el botón **Fork** y después **Create fork**. Se crea una copia en mi cuenta: `Ladysoria/prueba-pr-iaw_202627`.
 
+![Fork creado en mi cuenta](images/ej4_fork.png)
+
 ## 2. Clonar el fork en mi ordenador
 
 ```
@@ -43,6 +45,8 @@ git add .
 git commit -m "Añado LSF.md y enlace en README.md"
 git push origin lsf
 ```
+
+![Commit y push de la rama lsf](images/ej4_push_lsf.png)
 
 ## 6. Crear el Pull Request
 
