@@ -32,8 +32,8 @@ ls
 mkdir prueba2_ladysoria
 cd prueba2_ladysoria
 git init
-echo "Contenido del archivo 1" > archivo1.txt
-echo "Contenido del archivo 2" > archivo2.txt
+echo "archivo 1" > archivo1.txt
+echo "archivo 2" > archivo2.txt
 git add .
 git commit -m "añadir dos ficheros"
 ```
@@ -62,6 +62,10 @@ git add .
 git commit -m "modifique el fichero"
 git push
 ```
+
+Comprobación en Windows: repositorio conectado con GitHub, los dos commits y los ficheros:
+
+![Repositorio prueba2_ladysoria en Windows](images/ej1_prueba2_windows.png)
 
 ### 5. Actualizar en Linux Debian
 
